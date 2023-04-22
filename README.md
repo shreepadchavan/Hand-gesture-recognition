@@ -18,7 +18,7 @@ Run “pip install tensorflow” to install the tensorflow module.
 5. Numpy 
 Run “pip install numpy” to install Numpy.
 
-6. Steps to solve the project:
+# Steps to solve the project:
 
 Import necessary packages.
 Initialize models.
