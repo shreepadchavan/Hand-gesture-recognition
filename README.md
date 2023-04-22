@@ -20,8 +20,8 @@ Run “pip install numpy” to install Numpy.
 
 # Steps to solve the project:
 
-Import necessary packages.
-Initialize models.
-Read frames from a webcam.
-Detect hand keypoints.
-Recognize hand gestures.
+1. Import necessary packages.
+2. Initialize models.
+3. Read frames from a webcam.
+4. Detect hand keypoints.
+5. Recognize hand gestures.
